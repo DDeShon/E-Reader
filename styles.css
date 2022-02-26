@@ -1,3 +1,11 @@
+html {
+  display: grid;
+}
+
+/* Header section */
+
+
+/* Reader section */
 .reader-panel {
   display: grid;
   border: 2px solid black;
@@ -7,3 +15,7 @@
   width: 70%;
   /* place-items: center; */
 }
+
+/* Navigation */
+
+/* Footer */
