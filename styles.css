@@ -1,13 +1,13 @@
 html {
-  display: grid;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Header section */
 
-
 /* Reader section */
 #reader-panel {
-  display: grid;
+  display: flex;
   border: 2px solid black;
   background-color: blueviolet;
   padding: 1em;
@@ -18,11 +18,11 @@ html {
 
 /* Navigation */
 #nav-panel {
-  display: grid;
+  display: flex;
   border: 2px solid black;
   background-color: green;
   padding: 1em;
   height: 80vh;
-  width: 30%;
+  width: 20%;
 }
 /* Footer */
