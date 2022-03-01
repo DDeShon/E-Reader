@@ -1,12 +1,22 @@
-html {
-}
-
-#main-view {
-  display: flex;
-  flex-direction: row;
+* {
+  margin: 0;
+  padding: 0;
 }
 
 /* Header section */
+#header {
+  background-color: aqua;
+  display: flex;
+  height: 5vh;
+  align-items: center;
+}
+
+/* Main section */
+#main-view {
+  display: flex;
+  flex-direction: row;
+  height: 90vh;
+}
 
 /* Reader section */
 #reader-panel {
@@ -14,7 +24,6 @@ html {
   border: 1px solid black;
   background-color: blueviolet;
   padding: 1em;
-  height: 80vh;
   width: 70%;
   place-items: center;
 }
@@ -25,9 +34,13 @@ html {
   border: 1px solid black;
   background-color: green;
   padding: 1em;
-  height: 80vh;
   width: 30%;
 }
 /* Footer */
 #footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  height: 5vh;
 }
