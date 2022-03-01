@@ -13,7 +13,7 @@ html {
   padding: 1em;
   height: 80vh;
   width: 70%;
-  /* place-items: center; */
+  place-items: center;
 }
 
 /* Navigation */
