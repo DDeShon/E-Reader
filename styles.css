@@ -44,6 +44,20 @@
   padding: 1em;
   width: 20%;
 }
+
+#nav-panel .search-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 1.5em;
+}
+
+#nav-panel .search-bar button {
+  font-size: 0.5em;
+  padding: 0.25em;
+  margin-top: 0.25em;
+  border-radius: 10px;
+}
 /* Footer */
 #footer {
   display: flex;
