@@ -59,9 +59,17 @@
   border-radius: 10px;
 }
 
+#nav-panel .nav-links {
+  margin-top: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #nav-panel .nav-links li {
   list-style: none;
   padding: 0.5em 0;
+  font-size: 1.5em;
 }
 /* Footer */
 #footer {
