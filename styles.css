@@ -71,6 +71,10 @@
   padding: 0.5em 0;
   font-size: 1.5em;
 }
+
+#nav-panel .nav-links a {
+  text-decoration: none;
+}
 /* Footer */
 #footer {
   display: flex;
