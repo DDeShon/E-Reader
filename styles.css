@@ -6,7 +6,7 @@
 
 /* Header section */
 #header {
-  background-color: hsl(180, 74%, 85%);
+  background-color: blue;
   display: flex;
   height: 5vh;
   align-items: center;
@@ -86,6 +86,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: aqua;
+  background-color: blue;
   height: 5vh;
 }
