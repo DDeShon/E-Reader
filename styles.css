@@ -30,6 +30,7 @@
 
 /* Reader section */
 #reader-panel {
+  position: relative;
   border: 1px solid black;
   background-color: hsl(271, 53%, 70%);
   font-size: 1.25rem;
@@ -39,6 +40,7 @@
 }
 
 #reader-panel #page-btn {
+  position: absolute;
   margin-top: 1em;
   width: 100px;
   padding: 0.5em;
