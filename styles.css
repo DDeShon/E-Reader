@@ -49,6 +49,7 @@
   font-family: "Parisienne", cursive;
   font-size: 1.25em;
   font-weight: bold;
+  cursor: pointer;
 }
 
 #reader-panel .btn-prev {
