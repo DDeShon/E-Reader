@@ -6,7 +6,7 @@
 
 /* Header section */
 #header {
-  background-color: hsl(240, 100%, 79%);
+  background-color: hsl(187, 52%, 80%);
   display: flex;
   height: 5vh;
   align-items: center;
@@ -112,6 +112,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: hsl(240, 100%, 79%);
+  background-color: hsl(187, 52%, 80%);
   height: 5vh;
 }
