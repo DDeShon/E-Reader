@@ -50,6 +50,11 @@
   font-size: 1.25em;
   font-weight: bold;
   cursor: pointer;
+  background-color: hsl(187, 52%, 80%);
+}
+
+#reader-panel #page-btn:hover {
+  background-color: hsl(187, 52%, 30%);
 }
 
 #reader-panel .btn-prev {
