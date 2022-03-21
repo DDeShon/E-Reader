@@ -107,6 +107,7 @@
 
 #nav-panel .nav-links a {
   text-decoration: none;
+  cursor: pointer;
 }
 /* Footer */
 #footer {
