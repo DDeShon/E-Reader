@@ -90,6 +90,7 @@
   padding: 0.25em;
   margin-top: 0.25em;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 #nav-panel .nav-links {
@@ -107,6 +108,7 @@
 
 #nav-panel .nav-links a {
   text-decoration: none;
+  cursor: pointer;
 }
 /* Footer */
 #footer {
