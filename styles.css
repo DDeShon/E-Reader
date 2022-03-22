@@ -26,6 +26,7 @@
   flex-direction: row;
   height: 90vh;
   justify-content: space-between;
+  background-color: hsl(187, 52%, 80%);
 }
 
 /* Reader section */
@@ -36,7 +37,7 @@
   font-size: 1.25rem;
   padding: 3em 1em;
   width: 82%;
-  border-radius: 0px 15px 15px 0px;
+  border-radius: 15px;
 }
 
 #reader-panel #page-btn {
